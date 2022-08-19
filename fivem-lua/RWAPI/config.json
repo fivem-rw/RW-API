@@ -1,0 +1,9 @@
+{
+  "apiNode": "https://api.realw.kr",
+  "apiUrls": {
+    "pay": "/cp/v1",
+    "obfuscate": "/obfuscate/v1",
+    "game": "/game/v1"
+  },
+  "apiKey": ""
+}
