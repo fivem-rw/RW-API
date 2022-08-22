@@ -7,7 +7,7 @@
 ## 소개
 
 FiveM, 개발관련, 기타 타 게임 등의 유용한 API들로 구성될 예정이며, API는 지속적으로 추가될 예정입니다.<br>
-현재 구성된 API 목록을 아래와 같습니다.<br><br>
+현재 구성된 API 목록은 아래와 같습니다.<br><br>
 
 - Obfuscate API: FiveM Lua난독화 API (현재 이용가능)<br>
 - Pay API: 리얼페이 API (현재 이용가능)<br>
